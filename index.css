@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+}
+.hero {
+    display: inline-block;
+    padding: 2%;
+    justify-content: center;
+    
+}
+.logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.second-header{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    font-family: cursive;
+
+}
